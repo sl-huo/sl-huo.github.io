@@ -26,11 +26,11 @@ A children’s book recommendation mini-APP to help improve English literacy. **
 
 Applying machine learning models on a the e-commerce transactions dataset, which contains a wide range of features from device type to product features, to detect fraudulent transactions and improve the efficacy of alerts to reduce fraud loss as well as save the hassle of false positives.
 
-<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true" width=90% />
+<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true" />
 
 <p align="left">
-<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" width=58% /> 
-<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" width=30% />
+<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" width="58%" /> 
+<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" width="30%" />
 </p>
 
 
@@ -46,9 +46,9 @@ Applying machine learning models on a the e-commerce transactions dataset, which
 
 Time series analysis of megabank stock, including BAC, JPM, HSBC, RY... in the past 30 years, from 1993 till 2023.
 
-<img src="images/stock_ma.jpg" width=90% />
+<img src="images/stock_ma.jpg" />
 
-<img src="images/LSTMforecasting.png" width=90% />
+<img src="images/LSTMforecasting.png" />
 
 [![](https://img.shields.io/badge/TensorFlow-lightgrey?logo=tensorflow)](#) [![](https://img.shields.io/badge/Keras-lightgrey?logo=keras)](#) [![](https://img.shields.io/badge/BeautifulSoup-lightgrey?logo=beautifulsoup)](#) [![](https://img.shields.io/badge/yahoo-lightgrey?logo=Yahoo)](#) [![](https://img.shields.io/badge/Statsmodels-lightgrey?logo=statsmodels)](#) 
 
