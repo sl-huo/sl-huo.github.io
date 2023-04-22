@@ -9,7 +9,7 @@
 A children’s book recommendation mini-APP to help improve English literacy. **Recommender systems** includes content-based filtering, item-item collaborative filtering and Matrix Factorization models. **NLP**(Natural Language Processing) and other Machine Learning techniques applied.
 
 
-<img src="images/book_word_cloud.png" width=45% /> [<img src="images/bookapp.jpeg" width=43% />](https://sh-children-book-recommend.streamlit.app/)
+<img src="images/book_word_cloud.png" width="51%" /> [<img src="images/bookapp.jpeg" width="48%" />](https://sh-children-book-recommend.streamlit.app/)
 
 
 [![](https://img.shields.io/badge/NLP-lightgrey?logo=NLP)](#) [![](https://img.shields.io/badge/Recommender_Systems-lightgrey?logo=Recommender)](#) [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-lightgrey?logo=Pandas)](#) [![](https://img.shields.io/badge/Streamlit-lightgrey?logo=Streamlit)](#)
@@ -29,8 +29,8 @@ Applying machine learning models on a the e-commerce transactions dataset, which
 <img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true" />
 
 <p align="left">
-<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" width="58%" /> 
-<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" width="30%" />
+<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" width="65%" /> 
+<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" width="34%" />
 </p>
 
 

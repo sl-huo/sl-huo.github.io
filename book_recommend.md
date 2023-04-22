@@ -7,7 +7,7 @@ How to support non-native speaker parents to find the most suitable books for th
 
 [Children's Book Recommendation](https://sh-children-book-recommend.streamlit.app/) - Deployed on Streamlit
 <p align="center">
-<img src="images/bookapp.jpeg" width="650" height="350" />
+<img src="images/bookapp.jpeg" />
 </p>
 
 ## Dataset
@@ -25,7 +25,7 @@ Processed data size (dataset is reduced due to limited resources): 1M reviews, ~
 **NLP(Book Description)**: Conducted word vectorization using **TFIDF** & **NLTK WordNetLemmatizer** on each book's description text data
 
 <p align="center">
-<img src="images/book_word_cloud.png" width="750" height="400" />
+<img src="images/book_word_cloud.png"/>
 </p>
 
 ## Recommendation Systems
