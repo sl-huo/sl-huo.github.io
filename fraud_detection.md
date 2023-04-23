@@ -70,9 +70,9 @@ Since the data for couting information is heavily right skewed, thus looking fur
 ### Web - Browser Types
 - **Opera**'s percentage of fraudulent transactions is the highest among various categories with over 30%, while **Chrome** is the most popular web browser.
 
-|Transaction Distribution across Browser Types|
-|:-------------------------:|
-![5](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/browser.png?raw=true)  
+<!-- |Transaction Distribution across Browser Types|
+|:-------------------------:| -->
+![5](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/browser.png?raw=true)
 
 
 ## PART 2 - Analysis & Modeling
