@@ -30,7 +30,7 @@ Processed data size (dataset is reduced due to limited resources): 1M reviews, ~
 
 ## Recommendation Systems
 
-- **Content Based Recommendation**: Analyze similarity between each book pair based on **book description text**, recommend top ranked books for unknown users;
-- **User-Item Collaborative Recommendation**: Analyze similarity between each book pair based on **user rating** record, recommend top ranked books for unknown users;
+- **Content Based Recommendation**: Analyse similarity between each book pair based on **book description text**, recommend top ranked books for unknown users;
+- **User-Item Collaborative Recommendation**: Analyse similarity between each book pair based on **user rating** record, recommend top ranked books for unknown users;
 - **FunkSVD Recommendation**: **Predict rating** for each book that user haven't read before, and recommend top ranked books to specific known user;
 

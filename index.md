@@ -1,15 +1,15 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects in data science, machine learning, NLP and neural network
 
 ---
 
-### Building recommender systems based on book content and user review, using NLP on text data analysis
+### Recommender systems making use of both content-based filtering and collaborative filtering, NLP on text data
 
 ### [Children's Book Recommendation APP](https://sh-children-book-recommend.streamlit.app/)
 
-A children’s book recommendation mini-APP to help improve English literacy. **Recommender systems** includes content-based filtering, item-item collaborative filtering and Matrix Factorization models. **NLP**(Natural Language Processing) and other Machine Learning techniques applied.
+A children’s book recommendation mini-APP aims to help children improve English literacy. **Recommender systems** include content-based filtering, item-item collaborative filtering and Matrix Factorization models. **NLP**(Natural Language Processing) and other Machine Learning techniques applied.
 
 
-<img src="images/book_word_cloud.png" width="51%" /> [<img src="images/bookapp.jpeg" width="48%" />](https://sh-children-book-recommend.streamlit.app/)
+<img src="images/book_word_cloud.png" title="Top words from book content" width="50.5%" /> [<img src="images/bookapp.jpeg" title = "Recommendation APP" width="48%" />](https://sh-children-book-recommend.streamlit.app/)
 
 
 [![](https://img.shields.io/badge/NLP-lightgrey?logo=NLP)](#) [![](https://img.shields.io/badge/Recommender_Systems-lightgrey?logo=Recommender)](#) [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-lightgrey?logo=Pandas)](#) [![](https://img.shields.io/badge/Streamlit-lightgrey?logo=Streamlit)](#)
@@ -22,15 +22,15 @@ A children’s book recommendation mini-APP to help improve English literacy. **
 
 ---
 
-### Detecting fradulent e-commerce payment through predictive modelling, applied XGBoost and LGBM
+### Detecting fradulent e-commerce payment through predictive modelling: XGBoost and LGBM
 
-Applying machine learning models on a the e-commerce transactions dataset, which contains a wide range of features from device type to product features, to detect fraudulent transactions and improve the efficacy of alerts to reduce fraud loss as well as save the hassle of false positives.
+Applying machine learning models on e-commerce transactions dataset, which contains a wide range of features from device type to product features, to detect fraudulent transactions and improve the efficacy of alerts to reduce losses from fraud.
 
-<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true" />
+<!-- <img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true" /> -->
 
 <p align="left">
-<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" width="65%" /> 
-<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" width="34%" />
+<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" title="Fraudulent transactions across browser types" width="64.5%" /> 
+<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" title="ROC Curve" width="34%" />
 </p>
 
 
@@ -42,20 +42,18 @@ Applying machine learning models on a the e-commerce transactions dataset, which
 
 ---
 
-### Forecasting megabank stock price by applying time series analysis & LSTM
+### Forecasting megabank stock price through time series analysis & LSTM
 
-Time series analysis of megabank stock, including BAC, JPM, HSBC, RY... in the past 30 years, from 1993 till 2023.
+Time series analysis for megabank stocks in the past 30 years, comparing stock price trend, seasonality, and return; predicting stock price using LSTM.
 
-<img src="images/stock_ma.jpg" />
+<img src="images/stock_ma.jpg" title="Moving Average"/>
 
-<img src="images/LSTMforecasting.png" />
+<img src="images/LSTMforecasting.png" title="LSTM Forecasting"/>
 
 [![](https://img.shields.io/badge/TensorFlow-lightgrey?logo=tensorflow)](#) [![](https://img.shields.io/badge/Keras-lightgrey?logo=keras)](#) [![](https://img.shields.io/badge/BeautifulSoup-lightgrey?logo=beautifulsoup)](#) [![](https://img.shields.io/badge/yahoo-lightgrey?logo=Yahoo)](#) [![](https://img.shields.io/badge/Statsmodels-lightgrey?logo=statsmodels)](#) 
 
 
 ---
-
-
 
 
 <!-- --- -->

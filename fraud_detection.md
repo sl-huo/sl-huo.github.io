@@ -42,9 +42,9 @@ Percentage of Fraudulent Transactions   |  Transaction Amount Distribution acros
 - Majority payments are through **Visa** and **MasterCard**, accounts for **65%** and **32%** respectively, with roughly ~**3.5%** of fraudulent transactions, while **discover** has the highest percentage of fraud cases, which is close to 8%
 - Over 74.5% of transactions are paid via **debit card**, while 25.2% are done with **credit card** which contains highest percentage(close to 7%) of fraudulent transactions
 
-Transaction Distribution across Card Types
-:-------------------------:
-![3](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true)  
+|Transaction Distribution across Card Types|
+|:-------------------------:|
+|![3](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true)  |
 
 
 ### Email Domains
@@ -52,9 +52,9 @@ Transaction Distribution across Card Types
 - Top purchaser email domains including gmail (46%), yahoo(20%), hotmail(9%) of the known transactions
 - Among the top email domains, '**mail.com**' with highest percentage of fraud cases ~20%, while '**outlook.com**' contains ~10%
 
-Transaction Distribution across Email Domains
-:-------------------------:
-![4](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/email.png?raw=true)  
+|Transaction Distribution across Email Domains|
+|:-------------------------:|
+|![4](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/email.png?raw=true)|
 
 
 ### Counting Information
@@ -62,16 +62,16 @@ Transaction Distribution across Email Domains
 
 Since the data for couting information is heavily right skewed, thus looking further into the higher quantile values, and it's interesting to find that for most of the columns, fraud class has much higher values and only columns `C4` & `C9` are opposite.
 
-Quantiles for Counting Variables
-:-------------------------:
-![5](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/countingcolumns.png?raw=true)  
+|Quantiles for Counting Variables|
+|:-------------------------:|
+|![5](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/countingcolumns.png?raw=true)|
 
 
 ### Web - Browser Types
 - **Opera**'s percentage of fraudulent transactions is the highest among various categories with over 30%, while **Chrome** is the most popular web browser.
 
-Transaction Distribution across Browser Types
-:-------------------------:
+|Transaction Distribution across Browser Types|
+|:-------------------------:|
 ![5](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/browser.png?raw=true)  
 
 
