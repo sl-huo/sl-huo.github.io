@@ -55,7 +55,19 @@ Time series analysis for megabank stocks in the past 30 years, comparing stock p
 
 ---
 
+## Data Analysis & Visualizations
 
+### London Cycling Analysis using Tableau
+Analyzing cycling journey across London during summer (July & August) in 2022. 
+
+
+<img src="https://github.com/sl-huo/london-cycling/blob/main/image/JourneyTracker.png?raw=true" title="Journey Tracker Dashboard"/>
+
+[![](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#)
+
+[View workbook on GitHub](https://github.com/sl-huo/london-cycling)
+
+---
 <!-- --- -->
 <p style="font-size:11px"></p>
 <!-- Remove above link if you don't want to attibute -->
