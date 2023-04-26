@@ -61,7 +61,7 @@ Time series analysis for megabank stocks in the past 30 years, comparing stock p
 Analyzing cycling journey across London during summer (July & August) in 2022. 
 
 
-<img src="https://github.com/sl-huo/london-cycling/blob/main/image/JourneyTracker.png?raw=true" title="Journey Tracker Dashboard"/>
+[<img src="https://github.com/sl-huo/london-cycling/blob/main/image/JourneyTracker.png?raw=true" title="Journey Tracker Dashboard"/>](https://github.com/sl-huo/london-cycling/blob/main/image/JourneyTracker.png?raw=true)
 
 [![](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#)
 
