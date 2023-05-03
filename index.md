@@ -9,7 +9,7 @@
 A children’s book recommendation mini-APP aims to help children improve English literacy. **Recommender systems** include content-based filtering, item-item collaborative filtering and Matrix Factorization models. **NLP**(Natural Language Processing) and other Machine Learning techniques applied.
 
 
-<img src="images/book_word_cloud.png" title="Top words from book content" width="50.5%" /> [<img src="images/bookapp.jpeg" title = "Recommendation APP" width="48%" />](https://sh-children-book-recommend.streamlit.app/)
+[<img src="images/book_word_cloud.png" title="Top words from book content" width="50.5%" />](images/book_word_cloud.png) [<img src="images/bookapp.jpeg" title = "Recommendation APP" width="48%" />](https://sh-children-book-recommend.streamlit.app/)
 
 
 [![](https://img.shields.io/badge/NLP-lightgrey?logo=NLP)](#) [![](https://img.shields.io/badge/Recommender_Systems-lightgrey?logo=Recommender)](#) [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-lightgrey?logo=Pandas)](#) [![](https://img.shields.io/badge/Streamlit-lightgrey?logo=Streamlit)](#)
@@ -28,10 +28,9 @@ Applying machine learning models on e-commerce transactions dataset, which conta
 
 <!-- <img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/cardtype.png?raw=true" /> -->
 
-<p align="left">
-<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" title="Fraudulent transactions across browser types" width="64.5%" /> 
-<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" title="ROC Curve" width="34%" />
-</p>
+
+[<img src="https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png" title="Fraudulent transactions across browser types" width="64.5%" />](https://github.com/sl-huo/payment-fraud-detection/raw/main/asset/browser.png) 
+[<img src="https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true" title="ROC Curve" width="34%" />](https://github.com/sl-huo/payment-fraud-detection/blob/main/asset/roc_curve.png?raw=true)
 
 
 [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/XGBoost-lightgrey?logo=xgboost)](#) [![](https://img.shields.io/badge/Jupyter-lightgrey?logo=Jupyter)](#) [![](https://img.shields.io/badge/Matplotlib-lightgrey?logo=Matplotlib)](#) [![](https://img.shields.io/badge/Seaborn-lightgrey?logo=Seaborn)](#) [![](https://img.shields.io/badge/Numpy-lightgrey?logo=Numpy)](#) 
@@ -46,9 +45,9 @@ Applying machine learning models on e-commerce transactions dataset, which conta
 
 Time series analysis for megabank stocks in the past 20 years, comparing stock price trend, seasonality, and return; predicting stock price using LSTM.
 
-<img src="images/jpm_ma.png" title="JPM Moving Average" width ="49%" /> <img src="images/jpm_dr.png" title="JPM Daily Return" width ="49%" />
+[<img src="images/jpm_ma.png" title="JPM Moving Average" width ="49%" />](images/jpm_ma.png) [<img src="images/jpm_dr.png" title="JPM Daily Return" width ="49%" />](images/jpm_dr.png)
 
-<img src="https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/LSTMforecasting.png?raw=true" title="LSTM Forecasting"/>
+[<img src="https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/LSTMforecasting.png?raw=true" title="LSTM Forecasting"/>](https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/LSTMforecasting.png?raw=true)
 
 [![](https://img.shields.io/badge/TensorFlow-lightgrey?logo=tensorflow)](#) [![](https://img.shields.io/badge/Keras-lightgrey?logo=keras)](#) [![](https://img.shields.io/badge/yahoo-lightgrey?logo=Yahoo)](#) [![](https://img.shields.io/badge/Statsmodels-lightgrey?logo=statsmodels)](#) [![](https://img.shields.io/badge/TimeSeries-lightgrey?logo=timeseries)](#) [![](https://img.shields.io/badge/BeautifulSoup-lightgrey?logo=beautifulsoup)](#)
 
@@ -64,7 +63,7 @@ Time series analysis for megabank stocks in the past 20 years, comparing stock p
 Analyzing cycling journey across London during summer (July & August) in 2022. 
 
 
-[<img src="https://github.com/sl-huo/london-cycling/blob/main/image/JourneyTracker.png?raw=true" title="Journey Tracker Dashboard"/>](https://github.com/sl-huo/london-cycling/blob/main/image/JourneyTracker.png?raw=true)
+[<img src="https://github.com/sl-huo/london-cycling/blob/main/image/JourneyTracker.png?raw=true" title="Journey Tracker Dashboard"/>](https://public.tableau.com/views/LondonCycling/JourneyTracker?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [![](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#)
 
