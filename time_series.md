@@ -4,7 +4,8 @@
 
 Time series analysis of megabank stock, including BAC, JPM, HSBC, RY... in the past 20 years, from 2003 till 2023.
 
-### Price change over the past 20 years
+### Price change over the past 5 years
+Bank stock price was significantly impacted during 2020 COVID and the rising of interest rates since 2022. 
 
 ![1](https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/stock_price.png?raw=true)
 
@@ -29,9 +30,15 @@ Applied log transformation and first-order differencing to stationarize the pric
 
 Applied Random Walk with drift as forecasting model, with MAPE of 15.53% 
 
-*left chart: forecasting(log price), right chart: converting to original price*
 
-<img src="https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/RWforecasting.png?raw=true" title="forecasting(log price)" width ="49%" /> <img src="https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/RWforecasting_price.png?raw=true" title="forecasting" width ="49%" />
+<img src="https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/RWforecasting.png?raw=true" title="forecasting(log price)" /> 
+
+
+<h3 style="text-align: center;">Forecasting (converting to original price)</h3>
+
+<img src="https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/RWforecasting_price.png?raw=true" title="forecasting" />
+
+<p>&nbsp;</p>
 
 Though Random Walk and ARIMA generates similar MAPE score (~15%), the residuals are still not normally distributed and homoscedastic. Additional transformation and differencing will be needed to further stationarize the data. However, model capture the overall trend in the long term.
 
@@ -45,3 +52,4 @@ Further improvement TBC...
 Forecasting short-term JPM stock price based on the past 60-day close price.
 
 ![3](https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/LSTMforecasting.png?raw=true)
+
