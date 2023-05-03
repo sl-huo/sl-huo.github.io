@@ -44,14 +44,17 @@ Applying machine learning models on e-commerce transactions dataset, which conta
 
 ### Forecasting megabank stock price through time series analysis & LSTM
 
-Time series analysis for megabank stocks in the past 30 years, comparing stock price trend, seasonality, and return; predicting stock price using LSTM.
+Time series analysis for megabank stocks in the past 20 years, comparing stock price trend, seasonality, and return; predicting stock price using LSTM.
 
-<img src="images/stock_ma.jpg" title="Moving Average"/>
+<img src="images/jpm_ma.png" title="JPM Moving Average" width ="49%" /> <img src="images/jpm_dr.png" title="JPM Daily Return" width ="49%" />
 
 <img src="images/LSTMforecasting.png" title="LSTM Forecasting"/>
 
-[![](https://img.shields.io/badge/TensorFlow-lightgrey?logo=tensorflow)](#) [![](https://img.shields.io/badge/Keras-lightgrey?logo=keras)](#) [![](https://img.shields.io/badge/BeautifulSoup-lightgrey?logo=beautifulsoup)](#) [![](https://img.shields.io/badge/yahoo-lightgrey?logo=Yahoo)](#) [![](https://img.shields.io/badge/Statsmodels-lightgrey?logo=statsmodels)](#) 
+[![](https://img.shields.io/badge/TensorFlow-lightgrey?logo=tensorflow)](#) [![](https://img.shields.io/badge/Keras-lightgrey?logo=keras)](#) [![](https://img.shields.io/badge/yahoo-lightgrey?logo=Yahoo)](#) [![](https://img.shields.io/badge/Statsmodels-lightgrey?logo=statsmodels)](#) [![](https://img.shields.io/badge/TimeSeries-lightgrey?logo=timeseries)](#) [![](https://img.shields.io/badge/BeautifulSoup-lightgrey?logo=beautifulsoup)](#)
 
+[Read more](/time_series)
+
+[View code on GitHub](https://github.com/sl-huo/time-series-stock-forecast)
 
 ---
 
