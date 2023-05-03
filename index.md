@@ -48,7 +48,7 @@ Time series analysis for megabank stocks in the past 20 years, comparing stock p
 
 <img src="images/jpm_ma.png" title="JPM Moving Average" width ="49%" /> <img src="images/jpm_dr.png" title="JPM Daily Return" width ="49%" />
 
-<img src="images/LSTMforecasting.png" title="LSTM Forecasting"/>
+<img src="https://github.com/sl-huo/time-series-stock-forecast/blob/main/asset/LSTMforecasting.png?raw=true" title="LSTM Forecasting"/>
 
 [![](https://img.shields.io/badge/TensorFlow-lightgrey?logo=tensorflow)](#) [![](https://img.shields.io/badge/Keras-lightgrey?logo=keras)](#) [![](https://img.shields.io/badge/yahoo-lightgrey?logo=Yahoo)](#) [![](https://img.shields.io/badge/Statsmodels-lightgrey?logo=statsmodels)](#) [![](https://img.shields.io/badge/TimeSeries-lightgrey?logo=timeseries)](#) [![](https://img.shields.io/badge/BeautifulSoup-lightgrey?logo=beautifulsoup)](#)
 
