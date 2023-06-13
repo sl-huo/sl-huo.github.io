@@ -5,7 +5,7 @@ How to support non-native speaker parents to find the most suitable books for th
 
 ## Recommendation Mini-APP
 
-[Children's Book Recommendation](https://sh-children-book-recommend.streamlit.app/) - Deployed on Streamlit
+[Children's Book Recommendation](https://childrens-books.streamlit.app) - Deployed on Streamlit
 <p align="center">
 <img src="images/bookapp.jpeg" />
 </p>

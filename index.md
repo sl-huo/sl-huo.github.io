@@ -1,26 +1,8 @@
-## Selected projects in data science, machine learning, NLP and neural network
+## Data Science Projects
+Selected projects in data science, machine learning, NLP and neural network
 
 ---
 
-### Recommender systems making use of both content-based filtering and collaborative filtering, NLP on text data
-
-### [Children's Book Recommendation APP](https://sh-children-book-recommend.streamlit.app/)
-
-A children’s book recommendation mini-APP aims to help children improve English literacy. **Recommender systems** include content-based filtering, item-item collaborative filtering and Matrix Factorization models. **NLP**(Natural Language Processing) and other Machine Learning techniques applied.
-
-
-[<img src="images/book_word_cloud.png" title="Top words from book content" width="50.5%" />](images/book_word_cloud.png) [<img src="images/bookapp.jpeg" title = "Recommendation APP" width="48%" />](https://sh-children-book-recommend.streamlit.app/)
-
-
-[![](https://img.shields.io/badge/NLP-lightgrey?logo=NLP)](#) [![](https://img.shields.io/badge/Recommender_Systems-lightgrey?logo=Recommender)](#) [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-lightgrey?logo=Pandas)](#) [![](https://img.shields.io/badge/Streamlit-lightgrey?logo=Streamlit)](#)
-
-[Read more](/book_recommend) 
-
-[View code on GitHub](https://github.com/sl-huo/book-recommend)
-
-
-
----
 
 ### Detecting fradulent e-commerce payment through predictive modelling: XGBoost and LGBM
 
@@ -57,7 +39,28 @@ Time series analysis for megabank stocks in the past 20 years, comparing stock p
 
 ---
 
-## Data Analysis & Visualizations
+### Recommender systems making use of both content-based filtering and collaborative filtering, NLP on text data
+
+### [Children's Book Recommendation APP](https://childrens-books.streamlit.app)
+
+A children’s book recommendation mini-APP aims to help children improve English literacy. **Recommender systems** include content-based filtering, item-item collaborative filtering and Matrix Factorization models. **NLP**(Natural Language Processing) and other Machine Learning techniques applied.
+
+
+[<img src="images/book_word_cloud.png" title="Top words from book content" width="50.5%" />](images/book_word_cloud.png) [<img src="images/bookapp.jpeg" title = "Recommendation APP" width="48%" />](https://childrens-books.streamlit.app)
+
+
+[![](https://img.shields.io/badge/NLP-lightgrey?logo=NLP)](#) [![](https://img.shields.io/badge/Recommender_Systems-lightgrey?logo=Recommender)](#) [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-lightgrey?logo=Pandas)](#) [![](https://img.shields.io/badge/Streamlit-lightgrey?logo=Streamlit)](#)
+
+[Read more](/book_recommend) 
+
+[View code on GitHub](https://github.com/sl-huo/book-recommend)
+
+
+---
+
+## Data Analytics & Visualizations
+
+---
 
 ### London Cycling Analysis using Tableau
 Analyzing cycling journey across London during summer (July & August) in 2022. 
