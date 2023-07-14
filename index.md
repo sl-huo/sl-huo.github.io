@@ -22,6 +22,19 @@ Applying machine learning models on e-commerce transactions dataset, which conta
 [View code on GitHub](https://github.com/sl-huo/payment-fraud-detection)
 
 ---
+### Credit risk modeling & scorecard feature development using tree-based model
+
+Utilizing tree-based model (XGBoost) to predict credit risk (probability of default) for loans, leveraging `interation_constraints` to improve interpretability of the model and tree structure, and exploring scorecard feature development based on feature importance and tree plot. 
+
+[<img src="https://github.com/sl-huo/credit-risk-modeling/blob/main/image/cnsscore_tree.png?raw=true" title="Credit Score - Tree Plot" />](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/cnsscore_tree.png?raw=true) 
+
+
+[![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#) [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/XGBoost-lightgrey?logo=xgboost)](#) [![](https://img.shields.io/badge/Pandas-lightgrey?logo=pandas)](#) 
+
+[View code on GitHub](https://github.com/sl-huo/credit-risk-modeling)
+
+
+---
 
 ### Forecasting megabank stock price through time series analysis & LSTM
 
