@@ -31,6 +31,8 @@ Utilizing tree-based model (XGBoost) to predict credit risk (probability of defa
 
 [![](https://img.shields.io/badge/Python-lightgrey?logo=Python)](#) [![](https://img.shields.io/badge/sklearn-lightgrey?logo=scikitlearn)](#) [![](https://img.shields.io/badge/XGBoost-lightgrey?logo=xgboost)](#) [![](https://img.shields.io/badge/Pandas-lightgrey?logo=pandas)](#) 
 
+[Read more](/credit_risk)
+
 [View code on GitHub](https://github.com/sl-huo/credit-risk-modeling)
 
 
