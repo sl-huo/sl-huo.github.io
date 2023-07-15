@@ -16,8 +16,9 @@ Default Rate: 21.7%, which is a highly imbalanced dataset, and tree-based model 
 
 Below are the distribution of two key independent variables: "credit score" and `ltv` (loan to value ratio), it shows that the default rate is higher for lower credit score and higher ltv. 
 
-![1](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/score_distri.png?raw=true) | ![2](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/ltv_distri.png?raw=true)
----| ---
+![1](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/score_distri.png?raw=true)
+![2](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/ltv_distri.png?raw=true)
+
 
 
 
@@ -27,8 +28,9 @@ Below are the distribution of two key independent variables: "credit score" and 
 
 The top features based on weight(left) and gain(right) are shown below. The top features are consistent between weight and gain, and the top features are `ltv`, `PERFORM_CNS_SCORE`, `DELINQUENT_ACCTS_IN_LAST_SIX_MONTHS`, `disbursed_amount`, which are also consistent with the EDA findings.
 
-![1](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/feature_importance.png?raw=true) | ![2](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/feature_import_gain.png?raw=true)
----| ---
+![1](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/feature_importance.png?raw=true) 
+![2](https://github.com/sl-huo/credit-risk-modeling/blob/main/image/feature_import_gain.png?raw=true)
+
 
 ### Tree Plot
 
