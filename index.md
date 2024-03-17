@@ -9,7 +9,7 @@ This Q&A Chatbot leverages the **Langchain** framework, the power of **OpenAI Em
 
 To interact with the Chatbot, please click [here](https://chatwdoc.streamlit.app/).
 
-[<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="images/chatbot_doc.png" alt="Q&A Chatbot">](images/chatbot_doc.png)
+[<img src="images/chatbot_doc.png" title="Q&A Chatbot" />](images/chatbot_doc.png)
 
 [![](https://img.shields.io/badge/Langchain-lightgrey?logo=Langchain)](#) [![](https://img.shields.io/badge/OpenAI-lightgrey?logo=OpenAI)](#) [![](https://img.shields.io/badge/LLM-lightgrey?logo=LLM)](#) [![](https://img.shields.io/badge/NLP-lightgrey?logo=NLP)](#) [![](https://img.shields.io/badge/Steamlit-lightgrey?logo=Streamlit)](#)
 
