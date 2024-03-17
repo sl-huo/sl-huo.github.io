@@ -3,7 +3,21 @@ Selected projects in data science, machine learning, NLP and neural network
 
 ---
 
+### Q&A Chatbot, a chatbot that can answer questions from your document. 
 
+This Q&A Chatbot leverages the **Langchain** framework, the power of **OpenAI Embeddings** and **LLM models** to proficiently answer questions based on the documents you upload.
+
+To interact with the Chatbot, please click [here](https://chatwdoc.streamlit.app/).
+
+[<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="images/chatbot_doc.png" alt="Q&A Chatbot">](images/chatbot_doc.png)
+
+[![](https://img.shields.io/badge/Langchain-lightgrey?logo=Langchain)](#) [![](https://img.shields.io/badge/OpenAI-lightgrey?logo=OpenAI)](#) [![](https://img.shields.io/badge/LLM-lightgrey?logo=LLM)](#) [![](https://img.shields.io/badge/NLP-lightgrey?logo=NLP)](#) [![](https://img.shields.io/badge/Steamlit-lightgrey?logo=Streamlit)](#)
+
+[Read more](/chatbot.md)
+
+[View code on GitHub](https://github.com/sl-huo/chatbot)
+
+---
 ### Detecting fradulent e-commerce payment through predictive modelling: XGBoost and LGBM
 
 Applying machine learning models on e-commerce transactions dataset, which contains a wide range of features from device type to product features, to detect fraudulent transactions and improve the efficacy of alerts to reduce losses from fraud.
